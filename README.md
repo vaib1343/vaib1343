@@ -6,6 +6,19 @@
 - 💬 Ask me about Frontend Developement.
 - ⚡ Fun fact: I love to draw and play cricket.
 
+
+| Company 1 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 1 | Description about position 1 |
+
+| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 2 | Description about position 2 |
+
+| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 3 | Description about position 3 |
+
 # Language and tools
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

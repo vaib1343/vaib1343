@@ -18,8 +18,10 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-007ACC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=Redux&logoColor=61DAFB" />
+  
+  
 </p>
 </p>
 

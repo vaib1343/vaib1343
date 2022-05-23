@@ -7,17 +7,16 @@
 - ⚡ Fun fact: I love to draw and play cricket.
 
 
-| Company 1 | Period of work (mm/yyyy - mm/yyyy) |
+| Enuke software | Period of work (04/2021 - 12/2021) |
 |:---------:|:----------------------------------:|
-| Position 1 | Description about position 1 |
+| Software Developer | Description about position 1 |
 
-| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+| Thinkfy Labs | Period of work (12/2021 - present) |
 |:---------:|:----------------------------------:|
-| Position 2 | Description about position 2 |
+| UI/UX Developer | Description about position 2 |
 
-| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
-|:---------:|:----------------------------------:|
-| Position 3 | Description about position 3 |
+
+
 
 # Language and tools
 <p>

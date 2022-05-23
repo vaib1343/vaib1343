@@ -6,5 +6,4 @@
 - 💬 Ask me about Frontend Developement.
 - ⚡ Fun fact: I love to draw and play cricket.
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+

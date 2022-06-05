@@ -1,4 +1,5 @@
-# Hello, folks! I am Vaibhav Varshney<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! I am Vaibhav Varshney
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10px" width="10px">
 
 - 🔭 I’m currently working on Flipkart cloud platform.
 - 🌱 I’m currently learning Next.js, Docker, K8.

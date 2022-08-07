@@ -41,7 +41,18 @@
 [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaib1343&count_private=true&hide=stars&show_icons=true&theme=react)](https://github.com/vaib1343/github-readme-stats)
 
 # Projects
-<h6>Fullstack Music App </h6>
+<h6>1) Fullstack Music App </h6>
 <p><b>Tech stack:</b> NextJs, prisma, chakra UI</p>
-<p>Application to listen audio track similiar to spotify.<a href="https://fullstack-music-q86wxgpa6-vaib1343.vercel.app/">visit</a></p>
+<p>Application to listen audio track similiar to spotify. <a href="https://fullstack-music-q86wxgpa6-vaib1343.vercel.app/">visit</a></p>
 <p>Note: Create account fearture is under process. Test creadentials(email: user@test.com password: password)</p>
+
+<h6>1) Bookit </h6>
+<p><b>Tech stack:</b> NextJs, prisma, redux, next-auth</p>
+<p>Application to listen audio track similiar to spotify. <a href="https://fullstack-music-q86wxgpa6-vaib1343.vercel.app/">visit</a></p>
+<p>Note: Create account fearture is under process. Test creadentials(email: user@test.com password: password)</p>
+
+<h6>1) Fullstack Music App </h6>
+<p><b>Tech stack:</b> NextJs, prisma, sass, next-auth, redux</p>
+<p>Application to help the user in task management.<a href="https://task-management-alpha.vercel.app/">visit</a></p>
+
+

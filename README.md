@@ -50,5 +50,7 @@
 <p><b>Tech stack:</b> NextJs, prisma, sass, next-auth, redux</p>
 <p>Application to help the user in task management. <a href="https://task-management-alpha.vercel.app/">visit</a></p>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaib1343&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 

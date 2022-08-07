@@ -12,7 +12,7 @@
 |:---------:|:----------------------------------:|
 | Software Developer | Worked as fullStack developer on hospital management Web Application |
 
-| Flipkart | Period of work (12/2021 - present) |
+| Flipkart via Thinkify labs | Period of work (12/2021 - present) |
 |:---------:|:----------------------------------:|
 | UI/UX Developer | Worked on existing code bases to add new feature in React |
 

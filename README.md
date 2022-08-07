@@ -36,10 +36,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaib1343&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaib1343&count_private=true&hide=stars&show_icons=true&theme=react)](https://github.com/vaib1343/github-readme-stats)
-
 # Projects
 <h6>1) Fullstack Music App </h6>
 <p><b>Tech stack:</b> NextJs, prisma, chakra UI</p>
@@ -54,4 +50,5 @@
 <p><b>Tech stack:</b> NextJs, prisma, sass, next-auth, redux</p>
 <p>Application to help the user in task management. <a href="https://task-management-alpha.vercel.app/">visit</a></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaib1343&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -43,7 +43,7 @@
 
 <h6>2) Bookit </h6>
 <p><b>Tech stack:</b> NextJs, prisma, redux, next-auth</p>
-<p>Application to listen audio track similiar to spotify. <a href="https://fullstack-music-q86wxgpa6-vaib1343.vercel.app/">visit</a></p>
+<p>Application to listen audio track similiar to spotify. <a href="https://bookit1343.vercel.app/">visit</a></p>
 
 <h6>3) Task Manager </h6>
 <p><b>Tech stack:</b> NextJs, prisma, sass, next-auth, redux</p>
